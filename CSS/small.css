@@ -1,0 +1,33 @@
+@media screen and (max-width: 600px) {
+  /*--------------------font------------------------------------*/
+  p {
+    font-size: 1rem;
+  }
+  h1 {
+    font-family: 'Almendra', serif;
+    font-size: 2.3rem;
+  }
+  body {
+    background-color: #769286;
+  }
+  body footer {
+    background-color: #1b4434;
+  }
+  /*-------------------navigation------------------------------*/
+  body .bar1, body .bar2, body .bar3 {
+    width: 25px;
+    height: 4px;
+    background-color: #F3F9E3;
+    margin: 4px 0;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    border: 0;
+  }
+}
+
+body nav .nav-item {
+  text-align: center;
+}
+
+/*---------------------footer-------------------------------*/
+/*# sourceMappingURL=small.css.map */

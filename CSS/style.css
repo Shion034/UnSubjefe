@@ -1,0 +1,55 @@
+body {
+  background-color: #769286;
+}
+
+body footer {
+  background-color: #1b4434;
+}
+
+/*------------------------------------navigation-----------------------------------------*/
+body nav {
+  background-color: #1b4434;
+  position: relative;
+  height: 100px;
+}
+
+body nav .navi-link {
+  color: #F3F9E3;
+  margin: 5px;
+  font-size: 1rem;
+}
+
+body nav .logo {
+  margin-left: 15px;
+}
+
+body nav .button {
+  display: none;
+}
+
+body ul {
+  margin: 0;
+  padding: 8% 0;
+}
+
+body ul .hide {
+  display: none;
+}
+
+/*---------------------footer-------------------------------*/
+body footer {
+  padding: 5%;
+  text-align: center;
+  margin-top: 5%;
+}
+
+body footer .f-content {
+  color: #F3F9E3;
+  font-size: 1.2rem;
+}
+
+body footer .f-info {
+  color: #F3F9E3;
+  font-weight: lighter;
+}
+/*# sourceMappingURL=style.css.map */
